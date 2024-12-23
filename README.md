@@ -13,7 +13,7 @@ The first step to the lab is setting up both machines. The attack machine will r
 #
 
 Windows 11 Machine - 
-![alt text](1.jpg)
+![Capture](https://github.com/blwhit/EDR-Attack-and-Defense/assets/141170960/75977c64-7faa-4b38-a5ad-1824cec2e508)
 ![Capture1](https://github.com/blwhit/EDR-Attack-and-Defense/assets/141170960/aebc3ac4-3631-4efe-a0f3-fc301997e48e)
 ![Capture4](https://github.com/blwhit/EDR-Attack-and-Defense/assets/141170960/d42cbd4d-7732-4f45-9e22-66457d2056ac)
 ![Capture5](https://github.com/blwhit/EDR-Attack-and-Defense/assets/141170960/ec31655e-ee37-48de-bcf0-ae04c8f5bb06)
